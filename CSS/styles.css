@@ -1,0 +1,15 @@
+canvas {
+  border: 2px solid #857f7f;
+  cursor: pointer;
+  border-radius: 15px;
+  background: #504c54;
+}
+
+#canvas-container{
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+}
